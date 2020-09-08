@@ -44,7 +44,7 @@ Discord.js v12.3.1 \
 メッセージは全てembed化されています。そのため埋め込みを非表示の設定だと何も見えません。 \
 ver1.0現在、出力できないものはデフォルトのユーザーアイコン system message の2つです。 
 
-# responsibility 
+# Responsibility 
 私はこのbotが関係したいかなる事柄に対しても一切の責任を負いません。
 
 # Contributors
