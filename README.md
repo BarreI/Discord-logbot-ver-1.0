@@ -38,11 +38,11 @@ Discord.js v12.3.1 \
 
 # Minimal Example
 1.logを出力したいchannelで '!setlog' を実行　\
-2.botが反応し、logが出力されたら成功 \
-3.ver1.0現在、出力できないものはデフォルトのユーザーアイコン system message の2つです。 
+2.botが反応し、logが出力されたら成功
 
 :注: \
-メッセージは全てembed化されています。そのため埋め込みを非表示の設定だと何も見えません。
+メッセージは全てembed化されています。そのため埋め込みを非表示の設定だと何も見えません。 \
+ver1.0現在、出力できないものはデフォルトのユーザーアイコン system message の2つです。 
 
 # Contributors
 
