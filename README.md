@@ -45,7 +45,7 @@ Discord.js v12.3.1 \
 ver1.0現在、出力できないものはデフォルトのユーザーアイコン system message の2つです。 
 
 # responsibility 
-私はこのbotが関係したいかなる事象に対しても責任を負いません。
+私はこのbotが関係したいかなる事柄に対しても一切の責任を負いません。
 
 # Contributors
 
