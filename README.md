@@ -37,9 +37,6 @@ Discord.js v12.3.1 \
 で起動してください。
 
 # Minimal Example
-
-![Minimal Example](resources/file-0.png)
-
 1.logを出力したいchannelで '!setlog' を実行　\
 2.botが反応し、logが出力されたら成功 \
 3.ver1.0現在、出力できないものはデフォルトのユーザーアイコン
